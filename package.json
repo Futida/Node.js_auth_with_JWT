@@ -1,0 +1,23 @@
+{
+  "name": "node.js_auth_with_jwt",
+  "version": "1.0.0",
+  "description": "JWT",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Futida/Node.js_auth_with_JWT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Futida/Node.js_auth_with_JWT/issues"
+  },
+  "homepage": "https://github.com/Futida/Node.js_auth_with_JWT#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.0"
+  }
+}
